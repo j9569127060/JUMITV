@@ -42,7 +42,7 @@ http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/288439.mkv
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/285699.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halo: La Serie S01 E04" tvg-logo="http://51.222.43.170:36995/images/8d25aa79ec60ce66ed901f956ebd42d6.jpg" group-title="HALO",Halo: La Serie S01 E04
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/285700.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Halo: La Serie S01 E05" tvg-logo="http://51.222.43.170:36995/images/676a923bc12f18db012bb636ec3c49e1.jpg" group-title="♥HALO",Halo: La Serie S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Halo: La Serie S01 E05" tvg-logo="http://51.222.43.170:36995/images/676a923bc12f18db012bb636ec3c49e1.jpg" group-title="HALO",Halo: La Serie S01 E05
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/286658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halo: La Serie S01 E06" tvg-logo="http://51.222.43.170:36995/images/abaaeb4f00b6f011bb1c60c3389d3e76.jpg" group-title="HALO",Halo: La Serie S01 E06
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/286931.mkv
@@ -52,3 +52,20 @@ http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/287293.mkv
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/287524.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Halo: La Serie S01 E09" tvg-logo="http://51.222.43.170:36995/images/1b1d3c776e78a01f77286e0592b38eee.jpg" group-title="HALO",Halo: La Serie S01 E09
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/287703.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="MALA CALIDAD Top Gun: Maverick (2022) MALA CALIDAD" tvg-logo="http://51.222.43.170:36995/images/5331df984875d49c9403db3de13493ff.jpg" group-title="2022",MALA CALIDAD Top Gun: Maverick (2022) MALA CALIDAD
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MALA CALIDAD Jurassic World: Dominion (2022) MALA CALIDAD" tvg-logo="http://51.222.43.170:36995/images/2910aaf15f9f5b3931abd72da98fff04.jpg" group-title="2022",MALA CALIDAD Jurassic World: Dominion (2022) MALA CALIDAD
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Ciudad Perdida (2022) ESPAÑOL" tvg-logo="http://51.222.43.170:36995/images/fe12781ee66568bc53be46a0d1a3c12d.jpg" group-title="2022",La Ciudad Perdida (2022) ESPAÑOL
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/287902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="http://51.222.43.170:36995/images/d52225eee816e805e30100430a299cff.jpg" group-title="2022",Sonic 2: La Película (2022)
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/287215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Exorcismo De Dios (2022)" tvg-logo="http://51.222.43.170:36995/images/793a0bb6f7b4df2a1cfe19876d591c1b.jpg" group-title="2022",El Exorcismo De Dios (2022)
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/287901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WmTdYNoSinBAXs0AfTTCSaV5lw.jpg" group-title="2022",Morbius (2022)
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shark Bait (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVVU9zC8snNHlcqYONY2HOsh9ob.jpg" group-title="2022",Shark Bait (2022)
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animales Fantásticos: Los Secretos de Dumbledore (2022)" tvg-logo="http://158.69.127.12:8080/images/93c2346bb2bf2e9c09bca8937b5949ad.jpg" group-title="2022",Animales Fantásticos: Los Secretos de Dumbledore (2022)
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288011.mkv
