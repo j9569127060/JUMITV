@@ -43,6 +43,10 @@ http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/288985.mkv
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/289628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boys S03 E06" tvg-logo="http://51.222.43.170:36995/images/e5f8981ec6140067e4bb427bab65a0c9.jpg" group-title="THE BOYS",The Boys S03 E06
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/289629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S03 E07" tvg-logo="http://51.222.43.170:36995/images/9e59d5254531d8967b914ce01fab60ea.jpg" group-title="THE BOYS",The Boys S03 E07
+http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/289935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S03 E08" tvg-logo="http://51.222.43.170:36995/images/588858ea8363e2b79982b3af691a3c9a.jpg" group-title="THE BOYS",The Boys S03 E08
+http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/290168.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Halo: La Serie S01 E03" tvg-logo="http://51.222.43.170:36995/images/b7b5afdc0d2bf3d23991b94b5b11da30.jpg" group-title="HALO",Halo: La Serie S01 E03
 http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/285699.mkv
@@ -61,8 +65,8 @@ http://51.222.43.170:36995/series/72megapack/jeTYpBP74tSD/287703.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="MALA CALIDAD Top Gun: Maverick (2022) MALA CALIDAD" tvg-logo="http://51.222.43.170:36995/images/5331df984875d49c9403db3de13493ff.jpg" group-title="2022",MALA CALIDAD Top Gun: Maverick (2022) MALA CALIDAD
 http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MALA CALIDAD Jurassic World: Dominion (2022) MALA CALIDAD" tvg-logo="http://51.222.43.170:36995/images/2910aaf15f9f5b3931abd72da98fff04.jpg" group-title="2022",MALA CALIDAD Jurassic World: Dominion (2022) MALA CALIDAD
-http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Dominion (2022) Español" tvg-logo="http://51.222.43.170:36995/images/2910aaf15f9f5b3931abd72da98fff04.jpg" group-title="ESTRENOS 2022",Jurassic World: Dominion (2022) Español
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/290085.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Ciudad Perdida (2022) ESPAÑOL" tvg-logo="http://51.222.43.170:36995/images/fe12781ee66568bc53be46a0d1a3c12d.jpg" group-title="2022",La Ciudad Perdida (2022) ESPAÑOL
 http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/287902.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="http://51.222.43.170:36995/images/d52225eee816e805e30100430a299cff.jpg" group-title="2022",Sonic 2: La Película (2022)
@@ -75,3 +79,5 @@ http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288018.mkv
 http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Animales Fantásticos: Los Secretos de Dumbledore (2022)" tvg-logo="http://158.69.127.12:8080/images/93c2346bb2bf2e9c09bca8937b5949ad.jpg" group-title="2022",Animales Fantásticos: Los Secretos de Dumbledore (2022)
 http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/288011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder (2022) MALA CALIDAD" tvg-logo="http://51.222.43.170:36995/images/3fdcfe3fb20d492c0b87a683137b5920.jpg" group-title="ESTRENOS 2022",Thor: Love and Thunder (2022) MALA CALIDAD
+http://51.222.43.170:36995/movie/72megapack/jeTYpBP74tSD/290249.mp4
